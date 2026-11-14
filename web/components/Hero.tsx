@@ -1,7 +1,6 @@
 "use client";
 
 import HalftoneNebula from "./HalftoneNebula";
-import LogoMarquee, { PARTNER_LOGOS } from "./LogoMarquee";
 
 // Planet moved right so the wordmark (left column) reads over open sky.
 const SKY = { planetX: 0.8, planetY: 0.64 };
@@ -44,7 +43,6 @@ export default function Hero({ nInv, nFlex, nBurner, nChunks, onAbout }: Props) 
         <div className="hero-foot">
           <div className="hero-marquee">
             <span className="hero-marquee-cap">Data from NASA PSI · NASA 2026 Space Apps</span>
-            <LogoMarquee logos={PARTNER_LOGOS} height={52} gap={72} />
           </div>
           <span className="hero-hint">Move the pointer to part the gas, click to light a star!!</span>
         </div>

@@ -63,8 +63,10 @@ export default function Results(p: Props) {
           ))}
         </div>
         <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
-          <span>CRASSUS · Nava Tavasoli &amp; Jennifer Campbell · NASA Space Apps 2026 “Flame in Freefall”.</span>
-          <span>Research data: NASA Physical Sciences Informatics (cite datasets by DOI). </span>
+          <span>CRASSUS · Nava Tavasoli &amp; Jennifer Campbell.</span>
+          <span>Research data from NASA Physical Sciences Informatics. 
+
+          </span>
         </div>
       </footer>
     </section>
