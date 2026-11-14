@@ -1,7 +1,6 @@
-# FlameScope (working title) — project context
+# Crassus — project context
 
-Portfolio project by Nava, based on a NASA hackathon challenge. A friend is designing the UI.
-Handoff from a planning session on 2026-11-14; everything below was established there.
+Portfolio project by Nava Tavasoli and Jennifer Campbell, based on a NASA hackathon challenge. A friend is designing the UI.
 
 ## Goal
 An AI-powered, web-based dashboard over NASA's Physical Sciences Informatics (PSI)
