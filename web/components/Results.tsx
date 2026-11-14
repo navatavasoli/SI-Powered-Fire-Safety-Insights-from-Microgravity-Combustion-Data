@@ -5,7 +5,6 @@ import { api, Investigation, RankRow, SafetyCat } from "@/lib/api";
 import { Envelope, ModelData, Params, Result, sweepO2 } from "@/lib/flame";
 import { ENVS, InvModel, MODEL_SHORT, MODELS } from "@/lib/investigations";
 import { download } from "./Dashboard";
-import { PARTNER_LOGOS } from "./LogoMarquee";
 
 type Tab = "model" | "rank" | "data" | "safety";
 
@@ -56,12 +55,6 @@ export default function Results(p: Props) {
         {tab === "safety" && <SafetyTab />}
       </div>
       <footer className="footer">
-        <div className="footer-logos" aria-label="Data source and inspiration">
-          {PARTNER_LOGOS.map((l) => (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img key={l.alt} src={l.src} alt={l.alt} width={l.width} height={l.height} style={{ height: 34, width: "auto" }} />
-          ))}
-        </div>
         <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
           <span>CRASSUS · Nava Tavasoli &amp; Jennifer Campbell.</span>
           <span>Research data from NASA Physical Sciences Informatics. 
