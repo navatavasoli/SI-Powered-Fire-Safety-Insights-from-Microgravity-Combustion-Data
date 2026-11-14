@@ -1,0 +1,11 @@
+# Local development. Runtime deps (what Vercel installs) live in pyproject.toml.
+fastapi>=0.110
+httpx>=0.27
+numpy>=1.26
+python-dotenv>=1.0
+truststore>=0.10
+requests>=2.31
+uvicorn[standard]>=0.29
+pytest>=8
+# Optional, offline embeddings only (python -m rag.index --embedder local):
+# fastembed>=0.5

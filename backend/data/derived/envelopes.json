@@ -1,0 +1,1249 @@
+[
+ {
+  "accession": "PSI-10",
+  "acronym": "ACME/Flame Design",
+  "title": "Advanced Combustion via Microgravity Experiments / Flame Design",
+  "doi": "10.60555/w4zy-bt45",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Advanced Combustion via Microgravity Experiments (ACME), Combustion Integrated Rack (CIR), Reconfiguration of Combustion Integrated Rack (CIR)",
+  "sub_area": "Flames of Gaseous Fuels",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 327,
+  "tables": [
+   {
+    "file": "PSI-10_Experimental table_Flame Design_Inverse Flame.csv",
+    "n_rows": 120,
+    "columns": [
+     "Flame Type",
+     "Day",
+     "Test",
+     "XO2",
+     "mO2 (mg/s)",
+     "mN2 (mg/s)",
+     "mtot (mg/s)",
+     "XC2H4 initial",
+     "XC2H4 final",
+     "pinit (atm)",
+     "pfinal (atm)",
+     "pmean (atm)",
+     "mean Zst",
+     "Tad (K)"
+    ]
+   },
+   {
+    "file": "PSI-10_Experimental table_Flame Design_Normal Flame.csv",
+    "n_rows": 207,
+    "columns": [
+     "Flame Type",
+     "Day",
+     "Fuel",
+     "Test",
+     "Xfuel",
+     "mfuel (mg/s)",
+     "mN2 (mg/s)",
+     "mtot (mg/s)",
+     "XO2 (init)",
+     "XO2 (final)",
+     "pinit (atm)",
+     "pfinal (atm)",
+     "pmean (atm)",
+     "mean Zst",
+     "Tad (K)"
+    ]
+   }
+  ],
+  "o2_pct": [
+   19.8,
+   85.0
+  ],
+  "o2_levels": [
+   19.8,
+   19.86,
+   19.92,
+   19.94,
+   19.97,
+   19.98,
+   19.99,
+   20.01,
+   20.05,
+   20.06,
+   20.09,
+   20.1,
+   20.11,
+   20.13,
+   20.14,
+   20.15,
+   20.16,
+   20.18,
+   20.19,
+   20.2,
+   20.22,
+   20.24,
+   20.26,
+   20.28,
+   20.29,
+   20.32,
+   20.34,
+   20.35,
+   20.36,
+   20.38,
+   20.39,
+   20.4,
+   20.43,
+   20.44,
+   20.45,
+   20.49,
+   20.54,
+   20.55,
+   20.57,
+   20.59
+  ],
+  "p_kpa": [
+   43.2,
+   305.8
+  ],
+  "u_ms": null,
+  "fuels": [
+   "C2H4",
+   "C3H8"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-20",
+  "acronym": "ACME BRE",
+  "title": "Advanced Combustion via Microgravity Experiments - Burning Rate Emulator",
+  "doi": "10.60555/vb93-3y72",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Combustion Integrated Rack (CIR), ACME",
+  "sub_area": "Flames of Gaseous Fuels",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 18,
+  "tables": [
+   {
+    "file": "PSI-20_Experimental table_ACME BRE.csv",
+    "n_rows": 18,
+    "columns": [
+     "Year",
+     "Month",
+     "Date",
+     "Burner Size (mm)",
+     "Fuel Bottle",
+     "Oxygen Conc (percent)",
+     "Flames Ignited",
+     "Notes"
+    ]
+   }
+  ],
+  "o2_pct": [
+   21.0,
+   40.0
+  ],
+  "o2_levels": [
+   21.0,
+   25.0,
+   26.5,
+   34.0,
+   40.0
+  ],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [
+   "100% C2H4",
+   "50% C2H4",
+   "100%C2H4",
+   "100% CH4"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-21",
+  "acronym": "ACME CLD Flame",
+  "title": "Advanced Combustion via Microgravity Experiments / Coflow Laminar Diffusion Flame",
+  "doi": "10.60555/23e1-9950",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Combustion Integrated Rack (CIR), ACME",
+  "sub_area": "Flames of gaseous fuel",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 32,
+  "tables": [
+   {
+    "file": "PSI-21_Experimental table_CLD Flame.csv",
+    "n_rows": 32,
+    "columns": [
+     "Test Type",
+     "Test Day",
+     "Fuel MFC",
+     "N2 MFC",
+     "Fuel Bottle",
+     "Fuel conc. Range",
+     "Flames ignited",
+     "Notes"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [
+   "40% CH4",
+   "40% CH5",
+   "40% CH6",
+   "40% CH7",
+   "40% CH8",
+   "40% CH9",
+   "40% CH10",
+   "40% CH11",
+   "40% CH12",
+   "40% CH13",
+   "40% CH14",
+   "100% CH4",
+   "100% CH5",
+   "100% CH6",
+   "100% C2H4",
+   "100% C2H5",
+   "100% C2H6",
+   "100% C2H7",
+   "100% C2H8",
+   "100% C2H9",
+   "100% C2H10",
+   "100% C2H11",
+   "50% C2H4",
+   "50% C2H5",
+   "50% C2H6",
+   "50% C2H7",
+   "50% C2H8",
+   "50% C2H9",
+   "30% C2H4",
+   "30% C2H5"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-22",
+  "acronym": "ACME E-FIELD Flames",
+  "title": "Advanced Combustion via Microgravity Experiments Electric-Field Effects on Laminar Diffusion Flames",
+  "doi": "10.60555/se5a-8c73",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Combustion Integrated Rack (CIR), ACME",
+  "sub_area": "Laminar Flames",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 32,
+  "tables": [
+   {
+    "file": "PSI-22_Experimental table_ACME E-FIELD Flames.csv",
+    "n_rows": 32,
+    "columns": [
+     "Test Type",
+     "Test Day",
+     "Year",
+     "Month",
+     "Date",
+     "Mesh Polarity",
+     "Fuel Bottle",
+     "Fuel Conc",
+     "Flames Ignited",
+     "Notes"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [
+   "100% CH4",
+   "40% CH4",
+   "100% C2H4",
+   "30% C2H4"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-23",
+  "acronym": "ACME s-Flame",
+  "title": "Advanced Combustion via Microgravity Experiments-Structure and Response of Spherical Diffusion Flames",
+  "doi": "10.60555/k57n-p030",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Combustion Integrated Rack (CIR), ACME",
+  "sub_area": "Flames of gaseous fuels",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 18,
+  "tables": [
+   {
+    "file": "PSI-23_Experimental table_ACME s-Flame.csv",
+    "n_rows": 18,
+    "columns": [
+     "Test Type",
+     "Test Day*",
+     "Year",
+     "Month",
+     "Date",
+     "Atmosphere*",
+     "Fuel Bottle",
+     "Flames Ignited*",
+     "Notes"
+    ]
+   }
+  ],
+  "o2_pct": [
+   21.0,
+   30.0
+  ],
+  "o2_levels": [
+   21.0,
+   30.0
+  ],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [
+   "50% C2H4 with N2",
+   "50% C2H4 with N3",
+   "45% CH4 with N2",
+   "45% CH4 with N3",
+   "100% H2",
+   "44.4% H2 with CH4",
+   "66.7% H2 with CH4",
+   "25% H2, 20% CH4, with He",
+   "20% H2, 25% CH4, with He",
+   "30% H2, 15% CH4, with He",
+   "45% H2 with He",
+   "45% CH4 with He",
+   "20% C2H4 with He",
+   "25% C2H4 with He",
+   "30% C2H4 with He",
+   "35% H2 with He"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-25",
+  "acronym": "BASS-II",
+  "title": "Burning and Suppression of Solids - II",
+  "doi": "10.60555/4qc4-de67",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Microgravity Science Glovebox (MSG)",
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 129,
+  "tables": [
+   {
+    "file": "PSI-25_Experimental table_BASS-II.csv",
+    "n_rows": 129,
+    "columns": [
+     "PI",
+     "Test #",
+     "Date",
+     "GMT",
+     "Sample #",
+     "Fuel Sample Material",
+     "Flow restrictor",
+     "Fan display",
+     "Air display",
+     "Radiometer gain   (1000   250   50   10)",
+     "Total Frames Shot",
+     "Calibrated  initial O2 % by vol",
+     "Calibrated final O2 % by vol",
+     "Initial CO2 % by vol",
+     "Final CO2 % by vol",
+     "Initial CO (ppm)",
+     "Final CO (ppm)"
+    ]
+   }
+  ],
+  "o2_pct": [
+   13.6,
+   22.2
+  ],
+  "o2_levels": [
+   13.6,
+   14.2,
+   14.5,
+   14.6,
+   14.8,
+   15.0,
+   15.1,
+   15.2,
+   15.3,
+   15.4,
+   15.5,
+   15.7,
+   15.9,
+   16.0,
+   16.3,
+   16.4,
+   16.5,
+   16.7,
+   16.8,
+   16.9,
+   17.0,
+   17.1,
+   17.2,
+   17.3,
+   17.4,
+   17.5,
+   17.6,
+   17.7,
+   17.9,
+   18.0,
+   18.2,
+   18.4,
+   18.5,
+   18.7,
+   18.8,
+   18.9,
+   19.0,
+   19.1,
+   19.2,
+   19.3
+  ],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [
+   "100 micron PMMA film 2 cm wide",
+   "200 micron PMMA film 2 cm wide",
+   "100 micron film 2 cm wide",
+   "300 micron PMMA film 2 cm wide",
+   "200 micron 2 cm wide",
+   "2 cm 0.1 mm PMMA film",
+   "400 micron film 2 cm wide",
+   "2 cm 0.2 mm PMMA film",
+   "1 cm 0.2 mm PMMA film",
+   "300 micron film 2 cm wide",
+   "2 cm 0.4 mm thick film",
+   "1 cm wide 200 micron thick PMMA",
+   "2 cm 100 micron thick PMMA",
+   "Nomex natural (nomex III)",
+   "Japan Wax candle",
+   "1 mm thick PMMA 1 sided 2 cm",
+   "3 mm thick PMMA 1 sided 2 cm wide",
+   "2 cm wide 5 mm thick 1 sided PMMA",
+   "5 mm thick PMMA 2 cm wide",
+   "3 mm thick PMMA 2 sided 2 cm thick",
+   "1 mm thick PMMA 2 cm wide",
+   "1 cm wide PMMA 1 mm thick",
+   "1 cm wide PMMA 2 mm thick",
+   "1 cm wide PMMA 3 mm thick",
+   "4 mm thick 1 cm wide PMMA slab",
+   "1 cm wide PMMA 5 mm thick",
+   "2 mm thick PMMA 2 cm wide",
+   "4 mm thick PMMA 2 cm wide",
+   "2mm thick PMMA 1 sided 2 cm wide",
+   "2 cm 4 mm 1 sided PMMA slab",
+   "2 cm wide PMMA 2 mm thick",
+   "2 cm wide PMMA 3 mm thick",
+   "4 mm thick 2 cm 2ide PMMA slab",
+   "1/4\" clear rod",
+   "3/8\"clear rod",
+   "1/2\" clear PMMA rod",
+   "1/4\" black rod",
+   "3/8\" clear rod",
+   "1/2\" clear rod",
+   "1/4 clear rod"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-26",
+  "acronym": "BASS",
+  "title": "Burning and Suppression of Solids",
+  "doi": "10.60555/58h4-dy80",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Microgravity Science Glovebox",
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 122,
+  "tables": [
+   {
+    "file": "PSI-26_Experimental table_BASS.csv",
+    "n_rows": 122,
+    "columns": [
+     "Date",
+     "GMT",
+     "As Run Test #",
+     "Test #",
+     "Sample #",
+     "Fuel Sample Material"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [
+   "SIBAL 2 cm",
+   "PMMA sphere 2 cm",
+   "PMMA sphere 1 cm",
+   "SIBAL 1 cm",
+   "Nomex blend 2 cm",
+   "PMMA 2 cm",
+   "PMMA 1 cm",
+   "2 cm sphere",
+   "1 cm sphere",
+   "Nomex III Natural",
+   "PMMA slab",
+   "ultem sheet",
+   "SIBAL 2 cm opposed flow",
+   "candle",
+   "pmma slab",
+   "2 cm sphere wake ign",
+   "nomex natural III",
+   "pmma sphere",
+   "SOOT Cleaning",
+   "Japan Wax Candle wake",
+   "paraffin wax slab",
+   "parrafin wax slab",
+   "pmma 2 cm",
+   "candle paraffin wake",
+   "pmma 1 cm",
+   "candle Japan wax",
+   "1 cm sphere wake",
+   "1 cm wake sphere",
+   "pmma slab opposed",
+   "pmma slab oppsed",
+   "2 cm pmma sphere",
+   "parrafin wax candle",
+   "paraffin wax candle",
+   "flat wax slab"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-39",
+  "acronym": "CFI",
+  "title": "Cool Flames Investigation",
+  "doi": "10.60555/m6pj-a914",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Multi-User Droplet Combustion Apparatus (MDCA), Combustion Integrated Rack (CIR)",
+  "sub_area": "Droplets",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 87,
+  "tables": [
+   {
+    "file": "PSI-39_Experimental table_CFI.csv",
+    "n_rows": 87,
+    "columns": [
+     "Flex Number",
+     "Test Date",
+     "Local Time",
+     "CIR",
+     "Pressure",
+     "Oxygen",
+     "Nitrogen",
+     "Helium",
+     "Fiber",
+     "Fuel"
+    ]
+   }
+  ],
+  "o2_pct": [
+   17.0,
+   21.0
+  ],
+  "o2_levels": [
+   17.0,
+   21.0
+  ],
+  "p_kpa": [
+   50.7,
+   506.6
+  ],
+  "u_ms": null,
+  "fuels": [
+   "C12H26",
+   "[.75]/[.25] C12H26/iso-dodecane",
+   "[.60]/[.40] C12H26/iso-dodecane"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-47",
+  "acronym": "DAFT / DAFT-2",
+  "title": "Dust and Aerosol Measurement Feasibility Test / Dust and Aerosol Measurement Feasibility Test-2",
+  "doi": "10.60555/ztgj-d202",
+  "platform": "International Space Station (ISS)",
+  "hardware": "TSI P-Trak",
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 2,
+  "tables": [
+   {
+    "file": "PSI-47_Experimental table_DAFT.csv",
+    "n_rows": 2,
+    "columns": [
+     "Session Name",
+     "Actual Day",
+     "Hardware Description",
+     "Sample Material",
+     "Sampled Location"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [
+   "Arizona Road Dust (ARD Fine) in combination with ISS GN2 to create an aerosol for measurement purposes."
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-60",
+  "acronym": null,
+  "title": "Computational and Experimental Analysis of SPICE Data Sets",
+  "doi": "10.60555/mzjm-yv57",
+  "platform": null,
+  "hardware": null,
+  "sub_area": "Gaseous",
+  "project_type": "Ground Investigation",
+  "n_tests": 0,
+  "tables": [],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [],
+  "gravity": "1 g / ground"
+ },
+ {
+  "accession": "PSI-62",
+  "acronym": null,
+  "title": "Concurrent Flame Spread Modeling using Flamelet Generated Manifolds in Microgravity with Comparison to BASS Experiments using Two-Color Tomography",
+  "doi": "10.60555/e9xp-ex83",
+  "platform": null,
+  "hardware": null,
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Ground Investigation",
+  "n_tests": 0,
+  "tables": [],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [],
+  "gravity": "1 g / ground"
+ },
+ {
+  "accession": "PSI-68",
+  "acronym": "FLEX-2",
+  "title": "Flame Extinguishment Experiment - 2",
+  "doi": "10.60555/byp8-h018",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Combustion Integrated Rack (CIR), Multi-user Droplet Combustion Appartatus (MDCA)",
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 8,
+  "tables": [
+   {
+    "file": "PSI-68_Experimental table_Flex2.csv",
+    "n_rows": 8,
+    "columns": [
+     "Sample (Fuel Type)",
+     "Initial Droplet Diameter (mm)",
+     "Ambient Gas Mixture",
+     "Oxygen Mole Fraction",
+     "Ambient Pressure (atm)",
+     "Ambient Temperature (C)",
+     "Flow Velocity (cm/s)"
+    ]
+   }
+  ],
+  "o2_pct": [
+   17.0,
+   30.0
+  ],
+  "o2_levels": [
+   17.0,
+   21.0,
+   25.0,
+   30.0
+  ],
+  "p_kpa": [
+   50.7,
+   304.0
+  ],
+  "u_ms": [
+   0.001,
+   0.05
+  ],
+  "fuels": [
+   "IsoOctane (pure)",
+   "n-Octane (pure)",
+   "Heptane (pure)",
+   "Decane (pure)",
+   "Ethanol (pure)",
+   "Propanol (95%) Glycerol (5%) (mixture)",
+   "Heptane (50%) IsoOctane (50%) (mixture)",
+   "Propanol (80%) Glycerol (20%) (mixture)"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-69",
+  "acronym": "FLEX",
+  "title": "Flame Extinguishment Experiment",
+  "doi": "10.60555/mbq8-0451",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Combustion Integrated Rack (CIR)-Fluids and Combustion Facility (FCF), Multi-user Droplet Combustion Appartatus (MDCA)",
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 274,
+  "tables": [
+   {
+    "file": "PSI-69_Experimental table_FLEX.csv",
+    "n_rows": 274,
+    "columns": [
+     "FLEX Test #",
+     "FLEX Identifier",
+     "Test Date",
+     "Test GMT",
+     "Fuel",
+     "Ambient pressure; mmHg",
+     "O initial ambient composition; mole fraction",
+     "N initial ambient composition; mole fraction",
+     "CO initial ambient composition; mole fraction",
+     "He initial ambient composition; mole fraction",
+     "Droplet initial diameter; mm",
+     "Visible flame extinction diameter; mm",
+     "Burning rate; mm",
+     "Burn time; s",
+     "Test end"
+    ]
+   }
+  ],
+  "o2_pct": [
+   12.0,
+   34.0
+  ],
+  "o2_levels": [
+   12.0,
+   13.0,
+   14.0,
+   15.0,
+   16.0,
+   17.0,
+   18.0,
+   19.0,
+   20.0,
+   21.0,
+   23.0,
+   24.0,
+   25.0,
+   30.0,
+   34.0
+  ],
+  "p_kpa": [
+   70.2,
+   309.3
+  ],
+  "u_ms": null,
+  "fuels": [
+   "Methanol",
+   "Heptane"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-98",
+  "acronym": "SAFFIRE-I",
+  "title": "Spacecraft Fire Safety Experiment-I",
+  "doi": "10.60555/0t15-1z43",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Saffire 1 enclosure in Cygnus",
+  "sub_area": "Spacecraft Fire, Smoke Distribution",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 4,
+  "tables": [
+   {
+    "file": "PSI-98_Experimental table_SAFFIRE-1.csv",
+    "n_rows": 4,
+    "columns": [
+     "Sample Number",
+     "Material",
+     "Sample Thickness (cm)",
+     "Sample Length (cm)",
+     "Sample Width (cm)",
+     "Air Flow (cm/s)",
+     "Percent O2",
+     "Ignition Power (W)",
+     "Ignition Time (s)",
+     "Burn Time (s)",
+     "Flow Direction",
+     "Camera 1",
+     "Camera 2"
+    ]
+   }
+  ],
+  "o2_pct": [
+   21.5,
+   21.7
+  ],
+  "o2_levels": [
+   21.5,
+   21.7
+  ],
+  "p_kpa": null,
+  "u_ms": [
+   0.2,
+   0.2
+  ],
+  "fuels": [
+   "SIBAL Fabric"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-99",
+  "acronym": "SAFFIRE-II",
+  "title": "Spacecraft Fire Experiment-II",
+  "doi": "10.60555/2chp-m469",
+  "platform": "Cygnus Spacecraft",
+  "hardware": "Cygnus Pressurized Cargo Module, SAFFIRE",
+  "sub_area": "Surface Combustion",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 15,
+  "tables": [
+   {
+    "file": "PSI-99_Experimental table_SAFFIRE-2.csv",
+    "n_rows": 15,
+    "columns": [
+     "Sample Number",
+     "Material",
+     "Samle Thickness",
+     "Sample Length",
+     "Sample Width (cm)",
+     "Air Flow (cm/s)",
+     "Percent O2 (Note 1)",
+     "Ignition Power (W)",
+     "Ignition Time (s)",
+     "Burn Time (s)",
+     "Flow Direction",
+     "?-g Burn Length",
+     "?-g Spread Length",
+     "1-g Burn Length",
+     "1-g Spread Rate",
+     "Camera 1",
+     "Camera 2"
+    ]
+   }
+  ],
+  "o2_pct": [
+   21.5,
+   22.1
+  ],
+  "o2_levels": [
+   21.5,
+   21.9,
+   22.0,
+   22.1
+  ],
+  "p_kpa": null,
+  "u_ms": [
+   0.2,
+   0.2
+  ],
+  "fuels": [
+   "Silicone",
+   "Cotton-Fiberglass (SIBAL)",
+   "PMMA & Nomex",
+   "PMMA"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-100",
+  "acronym": "SAFFIRE-III",
+  "title": "Spacecraft Fire Experiment-III",
+  "doi": "10.60555/040q-4h36",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Saffire III enclosure in Cygnus",
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 2,
+  "tables": [
+   {
+    "file": "PSI-100_Experimental table_SAFFIRE-3.csv",
+    "n_rows": 2,
+    "columns": [
+     "Sample Number",
+     "Material",
+     "Sample Thickness",
+     "Sample Length",
+     "Sample Width",
+     "Air Flow",
+     "Direction",
+     "Camera 1",
+     "Camera 2"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": [
+   0.3,
+   0.3
+  ],
+  "fuels": [
+   "SIBAL Fabric"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-101",
+  "acronym": "SAME-R",
+  "title": "Smoke Aerosol Measurement Experiment-Reflight",
+  "doi": "10.60555/2np7-jv14",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Comparitive Soot Diagnostic Hardware; Refer to final report",
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 109,
+  "tables": [
+   {
+    "file": "PSI-101_Experimental table_SAME-R.csv",
+    "n_rows": 109,
+    "columns": [
+     "Sample Type",
+     "SAME Test #",
+     "Description",
+     "Date",
+     "Inlet velocity (cm/s)",
+     "Rt/R0",
+     "Duration (sec)",
+     "Primary aging time (sec)",
+     "Primary mixing time (sec)",
+     "Net aging time (sec)"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": [
+   0.0,
+   0.081
+  ],
+  "fuels": [
+   "Kapton",
+   "Silicone",
+   "Lampwick",
+   "Teflon",
+   "Pyrell"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-102",
+  "acronym": "SAME",
+  "title": "Smoke and Aerosol Measurement Experiment",
+  "doi": "10.60555/gd4k-8h62",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Comparitive Soot Diagnostic Hardware",
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 8,
+  "tables": [
+   {
+    "file": "PSI-102_Experimental table_SAME.csv",
+    "n_rows": 8,
+    "columns": [
+     "Sample #",
+     "Sample Material",
+     "Air Flow (cm/s)",
+     "Weight loss rate (mg/min)",
+     "Aging Duration (minutes)"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": [
+   0.05,
+   0.1
+  ],
+  "fuels": [
+   "Teflon",
+   "Kapton",
+   "Silicone Rubber",
+   "Lampwick",
+   "Dibutyl Phthalate"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-106",
+  "acronym": "SLICE",
+  "title": "Structure and Liftoff In Combustion Experiment",
+  "doi": "10.60555/pm12-rg61",
+  "platform": "International Space Station (ISS)",
+  "hardware": null,
+  "sub_area": null,
+  "project_type": "Microgravity Investigation",
+  "n_tests": 12,
+  "tables": [
+   {
+    "file": "PSI-106_Experimental table_Slice.csv",
+    "n_rows": 12,
+    "columns": [
+     "Test Date",
+     "Fuel Type"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [
+   "100% CH4",
+   "40% CH4 (balance N2) including 2 pyrometry calibration tests and 2 fan calibrations",
+   "70% CH4 (balance N2) including 1 pyrometry calibration test",
+   "20% C2H4 (balance N2)",
+   "40% CH4 (balance N2)",
+   "70% CH4 (balance N2) where the fuel bottle was not emptied (in contrast to most days)",
+   "100% C2H6",
+   "70% CH4 (balance N2) including 1 pyrometry calibration test and 2 fan calibrations",
+   "100% C2H4"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-107",
+  "acronym": "SPICE",
+  "title": "Smoke Point In Co-flow Experiment",
+  "doi": "10.60555/9kbh-e962",
+  "platform": "International Space Station (ISS)",
+  "hardware": "Microgravity Science Glovebox (MSG)",
+  "sub_area": "Fire Safety",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 469,
+  "tables": [
+   {
+    "file": "PSI-107_Experimental table_Spice.csv",
+    "n_rows": 469,
+    "columns": [
+     "GMT date",
+     "GMT ignition",
+     "GMT  Flame Off",
+     "Fuel",
+     "Nozzle (mm)",
+     "Fuel Rate (sccm)",
+     "Fuel Rate (mg/s)",
+     "HC Fuel Rate (mg/s)",
+     "Air Rate (cm/s)"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": [
+   0.0066,
+   0.8528
+  ],
+  "fuels": [
+   "Ethylene",
+   "Propane",
+   "75% Propylene",
+   "75 % Propylene",
+   "50 % Propylene",
+   "Propylene",
+   "Methane"
+  ],
+  "gravity": "µg"
+ },
+ {
+  "accession": "PSI-115",
+  "acronym": null,
+  "title": "Utilization of the Smoke Aerosol Measurement Experiment Data for Advanced Modeling and Simulation of Smoke Generation in Micro-Gravity",
+  "doi": "10.60555/q0v5-1v28",
+  "platform": "Not Applicable",
+  "hardware": null,
+  "sub_area": "Smoke Aerosol, Combustion Simulation",
+  "project_type": "Ground Investigation",
+  "n_tests": 0,
+  "tables": [],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [],
+  "gravity": "1 g / ground"
+ },
+ {
+  "accession": "PSI-117",
+  "acronym": null,
+  "title": "Effect of External Thermo-Convective Perturbation on Cool Flame Dynamics: A Multidimensional Multi-Physics CFD Analysis",
+  "doi": "10.60555/gz0q-b577",
+  "platform": null,
+  "hardware": null,
+  "sub_area": "Droplet",
+  "project_type": "Ground Investigation",
+  "n_tests": 0,
+  "tables": [],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [],
+  "gravity": "1 g / ground"
+ },
+ {
+  "accession": "PSI-142",
+  "acronym": null,
+  "title": "Quantitative Studies of Cool Flame Transitions at Radiation / Stretch Extinction Using Counterflow Flames",
+  "doi": "10.60555/80qf-vj95",
+  "platform": "Not Applicable",
+  "hardware": "Principal Investigator Laboratory Hardware",
+  "sub_area": "Spacecraft Fire Safety",
+  "project_type": "Ground Investigation",
+  "n_tests": 8,
+  "tables": [
+   {
+    "file": "PSI-142_Experimental table_Data Summary Table.csv",
+    "n_rows": 8,
+    "columns": [
+     "Data ID",
+     "Data Description",
+     "Reference Publication Link",
+     "Figure ID in Reference"
+    ]
+   }
+  ],
+  "o2_pct": null,
+  "o2_levels": [],
+  "p_kpa": null,
+  "u_ms": null,
+  "fuels": [],
+  "gravity": "1 g / ground"
+ },
+ {
+  "accession": "PSI-159",
+  "acronym": "ACME CFI-G",
+  "title": "Advanced Combustion via Microgravity Experiments / Cool Flames Investigation with Gases",
+  "doi": "10.60555/cyt1-kh64",
+  "platform": "International Space Station (ISS)",
+  "hardware": "ACME, Combustion Integrated Rack (CIR)",
+  "sub_area": "Flames of Gaseous Fuels",
+  "project_type": "Microgravity Investigation",
+  "n_tests": 333,
+  "tables": [
+   {
+    "file": "PSI-159_Experimental table_CFI-G_Inverse Flames.csv",
+    "n_rows": 154,
+    "columns": [
+     "Flame Type",
+     "Day",
+     "Fuel",
+     "Test",
+     "Xf  before test",
+     "Xf  after test",
+     "approx p (bar)",
+     "XO2",
+     "HC burnrate (mg/s)",
+     "O2 flow rate (mg/s)",
+     "TFP",
+     "Tad (K)",
+     "Zst",
+     "Hot ignition",
+     "burn time (sec)",
+     "Self -ext or flow term",
+     "Peak burner Temp (C)",
+     "Peak burner temp (K)",
+     "Color",
+     "Comments"
+    ]
+   },
+   {
+    "file": "PSI-159_Experimental table_CFI-G_Normal Flames.csv",
+    "n_rows": 179,
+    "columns": [
+     "Flame Type",
+     "Day",
+     "Fuel",
+     "Test",
+     "Cool flame?",
+     "XO2 before test",
+     "XO2  after test",
+     "approx p (bar)",
+     "Xf",
+     "mHC (mg/s)",
+     "TFP",
+     "Tad (K)",
+     "Zst",
+     "Hot ignition",
+     "burn time (sec)",
+     "Self-ext or flow term",
+     "Peak burner T (C )",
+     "Comments"
+    ]
+   }
+  ],
+  "o2_pct": [
+   12.0,
+   85.0
+  ],
+  "o2_levels": [
+   12.0,
+   13.5,
+   15.0,
+   17.97,
+   18.0,
+   18.02,
+   19.0,
+   20.67,
+   20.72,
+   20.75,
+   20.84,
+   20.86,
+   20.89,
+   20.91,
+   20.93,
+   20.96,
+   20.97,
+   21.0,
+   21.01,
+   21.02,
+   21.05,
+   21.06,
+   21.07,
+   21.1,
+   21.11,
+   21.14,
+   21.16,
+   21.18,
+   21.2,
+   21.22,
+   21.25,
+   21.64,
+   21.66,
+   21.67,
+   23.33,
+   23.36,
+   23.41,
+   30.0,
+   33.24,
+   33.49
+  ],
+  "p_kpa": [
+   49.5,
+   331.0
+  ],
+  "u_ms": null,
+  "fuels": [
+   "ethane",
+   "propane",
+   "butane",
+   "50% butane",
+   "30% butane",
+   "30% propane",
+   "30% ethane"
+  ],
+  "gravity": "µg"
+ }
+]

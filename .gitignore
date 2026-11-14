@@ -1,0 +1,22 @@
+# secrets
+.env
+.env.local
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# model / tool caches
+.cache/
+
+# frontend
+web/node_modules/
+web/.next/
+web/out/
+web/next-env.d.ts
+*.tsbuildinfo
+
+.vercel
+.env*

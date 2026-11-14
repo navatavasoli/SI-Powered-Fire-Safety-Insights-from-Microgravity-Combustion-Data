@@ -1,0 +1,19 @@
+# Secrets: the Gemini key is set as an encrypted Vercel env var instead.
+.env
+.env.*
+!.env.example
+
+# Local caches and builds (the build step re-downloads the embedding model).
+**/.cache
+**/__pycache__
+**/.pytest_cache
+**/node_modules
+web/.next
+
+# Not needed at runtime.
+design
+docs
+download
+psi_client.py
+backend/tests
+backend/data/raw
